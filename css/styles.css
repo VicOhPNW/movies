@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+}
+img{
+  width: 200px;
+}
+
+/*another way to make the radio button to get to the bottom
+/*input[type="radio"] {
+  display: inline-block;
+  position: absolute;
+  bottom: -20px;
+}
+
+input[type="radio"]:last-child{
+  left: 180px;
+  }*/
+h2{
+  text-align: left;
+  padding-bottom: 20px;
+}
+
+button{
+  float: left;
+  margin-top: 50px;
+}
+
+#result{
+  
+  text-align: center;
+  margin: 30px;
+}
